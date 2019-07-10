@@ -10,12 +10,15 @@ body {
   border-radius: 2px;
   border: 4px solid rgba(23, 15, 28, 0.6);
   text-align: center;
+  font-family: "Open Sans";
+  font-weight: 600;
 }
 .smart-logo p {
   opacity: 0.9;
   font-size: 50px;
   line-height: 35px;
   padding: 9px 0;
+  font-family: "Open Sans";
 }
 .smart-logo p::first-letter {
   color: #fc6744;
@@ -32,12 +35,15 @@ body {
   font-size: 50px;
   line-height: 45px;
   color: #626262;
+  font-family: "Open Sans";
+  font-weight: 600;
 }
 .first-section-text p {
   margin-top: 30px;
   opacity: 0.65;
   font-size: 17.3px;
   color: #000000;
+  font-family: "Open Sans";
 }
 .make-special {
   color: #fc6744;
@@ -48,6 +54,7 @@ body {
   background-color: white;
   box-shadow: 0 0 57px rgba(20, 20, 21, 0.2);
   border-radius: 2px;
+  font-family: "Open Sans";
 }
 .send-message-top {
   margin-bottom: 25px;
@@ -96,6 +103,8 @@ body {
   margin-top: 155px;
   line-height: 45px;
   font-size: 50px;
+  font-family: "Open Sans";
+  font-weight: 600;
 }
 .section-second-text p {
   margin-top: 30px;
@@ -103,9 +112,11 @@ body {
   font-size: 17.3px;
   color: #414141;
   margin-bottom: 100px;
+  font-family: "Open Sans";
 }
 .advance {
   padding-top: 60px;
+  font-family: "Open Sans";
 }
 .advance:hover {
   box-shadow: 0 0 35px rgba(20, 20, 21, 0.21);
@@ -116,6 +127,8 @@ body {
   opacity: 0.9;
   font-size: 25px;
   color: #ffffff;
+  font-family: "Open Sans";
+  font-weight: 600;
 }
 .advance p {
   margin-top: 15px;
@@ -157,6 +170,7 @@ body {
   background-color: #f74770;
 }
 .section-third {
+  font-family: "Open Sans";
   background-color: #fbfbfb;
   text-align: center;
   padding-bottom: 200px;
@@ -165,6 +179,8 @@ body {
   margin-top: 155px;
   line-height: 45px;
   font-size: 50px;
+  font-family: "Open Sans";
+  font-weight: 600;
 }
 .section-third p {
   margin-top: 15px;
@@ -183,6 +199,7 @@ body {
   height: 100%;
 }
 .section-fourth {
+  font-family: "Open Sans";
   padding-bottom: 500px;
   background-color: white;
   text-align: center;
@@ -191,6 +208,8 @@ body {
   margin-top: 155px;
   line-height: 45px;
   font-size: 50px;
+  font-family: "Open Sans";
+  font-weight: 600;
 }
 .section-fourth-header p {
   margin-top: 15px;
@@ -200,6 +219,7 @@ body {
   margin-bottom: 70px;
 }
 .feature-box {
+  font-family: "Open Sans";
   background-color: black;
   display: flex;
   justify-content: center;
@@ -224,11 +244,13 @@ body {
   height: 50px;
 }
 .active {
+  font-family: "Open Sans";
   box-shadow: 0 0 36px rgba(20, 20, 21, 0.2);
   border-radius: 2px;
   background-color: #ffffff;
 }
 .feature-box-text {
+  font-family: "Open Sans";
   text-align: left;
 }
 .feature-box-text h2 {
@@ -237,6 +259,8 @@ body {
   opacity: 0.75;
   color: #000;
   line-height: 45.74px;
+  font-family: "Open Sans";
+  font-weight: 600;
 }
 .feature-box-text p {
   opacity: 0.7;
@@ -255,6 +279,7 @@ body {
   margin-top: 15px;
 }
 .fbh {
+  font-family: "Open Sans";
   background-color: #ff5c36;
   border: none;
   height: 3px;
@@ -265,6 +290,7 @@ body {
   margin-top: 90px;
 }
 .section-fifth {
+  font-family: "Open Sans";
   text-align: center;
   padding-bottom: 200px;
   background-color: #fbfbfb;
@@ -274,6 +300,8 @@ body {
   line-height: 45px;
   font-size: 50px;
   opacity: 0.95;
+  font-family: "Open Sans";
+  font-weight: 600;
 }
 .section-fifth-header p {
   margin-top: 15px;
@@ -283,6 +311,7 @@ body {
   margin-bottom: 70px;
 }
 .team-photo-box {
+  font-family: "Open Sans";
   margin-top: 100px;
   height: 450px;
   background-color: #ff5c36;
@@ -299,6 +328,7 @@ body {
   background-color: #ffffff;
 }
 .hover-box {
+  font-family: "Open Sans";
   opacity: 0;
   transition: opacity 0.3s;
   background-color: #fff3f0;
@@ -321,6 +351,8 @@ body {
   color: #202020;
   font-size: 30px;
   opacity: 0.95;
+  font-family: "Open Sans";
+  font-weight: 600;
 }
 .progress-bar {
   width: 45%;
@@ -340,6 +372,9 @@ body {
   z-index: 101;
   border-radius: 2px;
 }
+.team-photo-box-name {
+  font-family: "Open Sans";
+}
 .team-photo-box-name p {
   opacity: 0.6;
 }
@@ -347,6 +382,8 @@ body {
   margin-top: 10px;
   opacity: 0.9;
   font-size: 30px;
+  font-family: "Open Sans";
+  font-weight: 600;
 }
 .paint {
   color: #ff724c;
@@ -354,6 +391,7 @@ body {
   font-size: 17px;
 }
 .section-sixth {
+  font-family: "Open Sans";
   text-align: center;
   padding-bottom: 200px;
   background-color: white;
@@ -363,6 +401,8 @@ body {
   line-height: 45px;
   font-size: 50px;
   opacity: 0.95;
+  font-family: "Open Sans";
+  font-weight: 600;
 }
 .section-sixth-header p {
   margin-top: 15px;
@@ -377,6 +417,7 @@ body {
   background-color: #fff;
 }
 .quotes {
+  font-family: "Source Sans Pro";
   margin: 0 auto;
   width: 90%;
   padding-top: 40px;
@@ -396,10 +437,14 @@ body {
 .defin {
   padding-bottom: 30px;
   font-size: 17px;
+  font-family: "Source Sans Pro";
+  font-style: italic;
 }
 .bold {
   font-weight: 600;
   font-size: 17px;
+  font-family: "Source Sans Pro";
+  font-style: normal;
 }
 .div-handler {
   margin: 0 auto;
